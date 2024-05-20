@@ -1,0 +1,64 @@
+#Out of Water Measurements - New Prototype Housing
+#Holes Uncovered
+water only - depth: 7cm, 2024/4/29 15:25:15,11, lux: 246.922
+water only - depth: 7cm, 2024/4/29 15:25:17,11, lux: 246.922
+water only - depth: 7cm, 2024/4/29 15:25:20,11, lux: 246.922
+#Holes Covered
+water only - depth: 7cm, 2024/4/29 15:25:30,11, lux: 268.79
+water only - depth: 7cm, 2024/4/29 15:25:33,11, lux: 268.79
+water only - depth: 7cm, 2024/4/29 15:25:35,11, lux: 268.79
+#In Water
+water only - depth: 7cm, 2024/4/29 15:27:51,12, lux: 394.128
+water only - depth: 7cm, 2024/4/29 15:27:54,12, lux: 390.048
+water only - depth: 7cm, 2024/4/29 15:27:56,12, lux: 390.048
+#Sleep for 3 Seconds
+water only - depth: 7cm, 2024/4/29 15:29:23,13, lux: 390.048
+water only - depth: 7cm, 2024/4/29 15:29:28,13, lux: 369.648
+water only - depth: 7cm, 2024/4/29 15:29:33,13, lux: 365.568
+#Stopped Table Movement:
+water only - depth: 7cm, 2024/4/29 15:29:50,13, lux: 364.099
+water only - depth: 7cm, 2024/4/29 15:29:55,13, lux: 364.099
+water only - depth: 7cm, 2024/4/29 15:30:0,13, lux: 360.019
+#jiggly testwater only - depth: 7cm, 2024/4/29 15:31:11,14, lux: 325.91
+water only - depth: 7cm, 2024/4/29 15:31:16,14, lux: 313.67
+water only - depth: 7cm, 2024/4/29 15:31:21,14, lux: 329.99
+water only - depth: 7cm, 2024/4/29 15:31:58,14, lux: 339.619
+water only - depth: 7cm, 2024/4/29 15:32:3,14, lux: 343.699
+water only - depth: 7cm, 2024/4/29 15:32:9,14, lux: 271.402
+#no jiggle
+water only - depth: 7cm, 2024/4/29 15:34:9,15, lux: 398.208
+water only - depth: 7cm, 2024/4/29 15:34:14,15, lux: 394.128
+water only - depth: 7cm, 2024/4/29 15:34:19,15, lux: 394.128
+water only - depth: 7cm, 2024/4/29 15:36:28, 15, lux: 360.019
+water only - depth: 7cm, 2024/4/29 15:36:33, 15, lux: 364.099
+water only - depth: 7cm, 2024/4/29 15:36:38, 15, lux: 368.179
+water only - depth: 7cm, 2024/4/29 15:37:5, 15, lux: 377.808
+water only - depth: 7cm, 2024/4/29 15:37:10, 15, lux: 377.808
+water only - depth: 7cm, 2024/4/29 15:37:15, 15, lux: 373.728
+#depth change, no oil, no jiggle
+water only - depth: 5cm, 2024/4/29 15:40:4, 16, lux: 259.161
+water only - depth: 5cm, 2024/4/29 15:40:10, 16, lux: 283.642
+water only - depth: 5cm, 2024/4/29 15:40:15, 16, lux: 285.11
+water only - depth: 5cm, 2024/4/29 15:40:32, 16, lux: 293.27
+water only - depth: 5cm, 2024/4/29 15:40:37, 16, lux: 289.19
+water only - depth: 5cm, 2024/4/29 15:40:42, 16, lux: 289.19
+water only - depth: 5cm, 2024/4/29 15:40:55, 16, lux: 285.11
+water only - depth: 5cm, 2024/4/29 15:41:0, 16, lux: 293.27
+water only - depth: 5cm, 2024/4/29 15:41:5, 16, lux: 293.27
+#depth change, no oil, no jiggle
+water only - depth: 3cm, 2024/4/29 15:44:26, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:44:31, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:44:36, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:44:48, 17, lux: 309.59
+water only - depth: 3cm, 2024/4/29 15:44:53, 17, lux: 309.59
+water only - depth: 3cm, 2024/4/29 15:44:58, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:45:53, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:45:58, 17, lux: 305.51
+water only - depth: 3cm, 2024/4/29 15:46:3, 17, lux: 305.51
+#jiggle
+water only - depth: 3cm, 2024/4/29 15:46:37, 18, lux: 281.03
+water only - depth: 3cm, 2024/4/29 15:46:42, 18, lux: 301.43
+water only - depth: 3cm, 2024/4/29 15:46:47, 18, lux: 317.75
+water only - depth: 3cm, 2024/4/29 15:46:59, 18, lux: 325.91
+water only - depth: 3cm, 2024/4/29 15:47:4, 18, lux: 325.91
+water only - depth: 3cm, 2024/4/29 15:47:9, 18, lux: 317.75
